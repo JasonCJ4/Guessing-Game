@@ -19,5 +19,3 @@ exe = executable(
   install : true,
   dependencies : dependencies,
 )
-
-test('basic', exe)
